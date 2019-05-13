@@ -1,5 +1,5 @@
 function addingEventListener() {
   input.addEventListener('click', function(event) {
-    return "true"
+    return true
   });
 }
